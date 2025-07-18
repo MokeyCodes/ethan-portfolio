@@ -56,32 +56,35 @@ This section outlines the open-source technologies used to build and host the **
 
 ---
 
-## 📂 Repo Structure
+<h2>📂 Repo Structure</h2>
+
+<pre><code>
 ethan-portfolio/
-├── index.html # Main portfolio homepage
-├── README.md # Project overview and details
+├── index.html                 # Main portfolio homepage
+├── README.md                  # Project overview and details
 
-├── honorsociety/ # CS Honor Society project
-│ ├── index.html
-│ ├── WebProjectContact.html
-│ ├── WebProjectMeetingSlides.html
-│ ├── WebProjectOfficers.html
-│ └── images/
-│ ├── Aadil.PNG
-│ ├── CSHS.png
-│ ├── MSC images...
-│ └── newDC.png, newGC.png
+├── honorsociety/              # CS Honor Society project
+│   ├── index.html
+│   ├── WebProjectContact.html
+│   ├── WebProjectMeetingSlides.html
+│   ├── WebProjectOfficers.html
+│   └── images/
+│       ├── Aadil.PNG
+│       ├── CSHS.png
+│       ├── MSC images...
+│       └── newDC.png, newGC.png
 
-├── professional/ # Class assignments & personal web pages
-│ ├── page2.html # Professional homepage
-│ ├── Tables.html
-│ ├── assignment6.html
-│ ├── gogolganguli.html
-│ ├── other assignment pages...
-│ └── images/
-│ ├── GogolFan.PNG
-│ ├── Halloween1.jpg
-│ └── background & theme images...
+├── professional/              # Class assignments & personal web pages
+│   ├── page2.html             # Professional homepage
+│   ├── Tables.html
+│   ├── assignment6.html
+│   ├── gogolganguli.html
+│   ├── other assignment pages...
+│   └── images/
+│       ├── GogolFan.PNG
+│       ├── Halloween1.jpg
+│       └── background & theme images...
+</code></pre>
 
 
 ---
