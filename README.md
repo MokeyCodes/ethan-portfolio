@@ -75,7 +75,7 @@ ethan-portfolio/
 │       └── newDC.png, newGC.png
 
 ├── professional/              # Class assignments & personal web pages
-│   ├── page2.html             # Professional homepage
+│   ├── page2.html             # Dual Enrollment: Professional homepage
 │   ├── Tables.html
 │   ├── assignment6.html
 │   ├── gogolganguli.html
