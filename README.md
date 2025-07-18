@@ -20,21 +20,23 @@ The portfolio was created using basic HTML/CSS and is hosted with GitHub Pages.
 
 ## 🔧 Tech & Tools
 
-- HTML5 / CSS3
-- GitHub Pages
-- Visual Studio Code
-- Moodle (LMS)
-- DigitalOcean VPS
-- Nginx
-- PHP 8.2
-- MariaDB
-- Redis
-- Certbot (SSL)
-- SendGrid (for email integration)
+- HTML5 / CSS3  
+- GitHub Pages  
+- Visual Studio Code  
+- Moodle (LMS)  
+- DigitalOcean VPS  
+- Nginx  
+- PHP 8.2  
+- MariaDB  
+- Redis  
+- Certbot (SSL)  
+- SendGrid (for email integration)  
 
 ---
 
-## 📦 Software Stack & Licensing
+## 📦 Software Stack & Licensing (Brighter Futures Tutoring)
+
+This section outlines the open-source technologies used to build and host the **Brighter Futures Tutoring** platform:
 
 | Software       | Version   | License               |
 |----------------|-----------|------------------------|
@@ -48,7 +50,7 @@ The portfolio was created using basic HTML/CSS and is hosted with GitHub Pages.
 
 ## 🤝 Collaborators
 
-- 👤 Marc Taytayan — Co-developer of Brighter Futures Tutoring. We worked together on server setup, web integration, and platform features.
+- 👤 **Marc Taytayan** — Co-developer of Brighter Futures Tutoring. We worked together on server setup, web integration, and platform features.
 
 ---
 
@@ -79,13 +81,17 @@ ethan-portfolio/
 │ ├── Halloween1.jpg
 │ └── background & theme images...
 
+
+---
+
 ## 🎓 About Me
 
 I'm an incoming freshman at UC San Diego, where I plan to major in Artificial Intelligence. This portfolio highlights the work I've done prior to starting college, including full-stack development, website design, and real-world projects built through dual-enrollment courses and independent learning. I’ve also deployed and managed a live tutoring platform using a VPS, demonstrating hands-on experience with web servers and deployment.
 
+---
+
 ## 📬 Contact
 
-- 💼 LinkedIn: [www.linkedin.com/in/ethan-nguyen-huu-222860375]
+- 💼 LinkedIn: [www.linkedin.com/in/ethan-nguyen-huu-222860375](https://www.linkedin.com/in/ethan-nguyen-huu-222860375)
 - 🌐 GitHub: [https://github.com/MokeyCodes](https://github.com/MokeyCodes)
 - ✉️ Email: ethannguyenhuu@gmail.com
-
