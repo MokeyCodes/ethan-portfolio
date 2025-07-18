@@ -10,7 +10,7 @@ Welcome! This repository contains my personal developer portfolio hosted on GitH
 
 This portfolio showcases the websites and projects I've built as a student, including:
 
-- 🧠 [Brighter Futures Tutoring](https://brighterfuturestutoring.org): A full-stack educational platform built using Moodle, Redis caching, MariaDB, and deployed on a Virtual Private Server (VPS) using DigitalOcean.
+- 🧠 [Brighter Futures Tutoring](https://brighterfuturestutoring.org): A full-stack educational platform built using Moodle, Redis caching, MariaDB, and deployed on a Virtual Private Server (VPS) using DigitalOcean. Domain and DNS were configured using GoDaddy, including authenticated email delivery via SendGrid.
 - 💻 **CS Honor Society Project**: A website created for my high school’s CS Honor Society Club to promote events and club members.
 - 🧾 **Professional Web Portfolio**: A collection of HTML projects and assignments completed during my college dual enrollment course.
 
@@ -24,17 +24,19 @@ The portfolio was created using basic HTML/CSS and is hosted with GitHub Pages.
 - GitHub Pages  
 - Visual Studio Code  
 - Moodle (LMS)  
-- DigitalOcean VPS  
+- DigitalOcean VPS  (deployment)
+- GoDaddy (domain & DNS management)
 - Nginx  
 - PHP 8.2  
 - MariaDB  
 - Redis  
 - Certbot (SSL)  
-- SendGrid (for email integration)  
+- SendGrid (for automated email integration)  
 
 ---
 
 ## 📦 Software Stack & Licensing (Brighter Futures Tutoring)
+*(Used for Brighter Futures Tutoring deployment)*
 
 This section outlines the open-source technologies used to build and host the **Brighter Futures Tutoring** platform:
 
