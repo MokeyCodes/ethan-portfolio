@@ -63,7 +63,7 @@ ethan-portfolio/
 ├── index.html                 # Main portfolio homepage
 ├── README.md                  # Project overview and details
 
-├── honorsociety/              # CS Honor Society project
+├── honorsociety/              # Dual Enrollment Final Project: CS Honor Society Website
 │   ├── index.html
 │   ├── WebProjectContact.html
 │   ├── WebProjectMeetingSlides.html
