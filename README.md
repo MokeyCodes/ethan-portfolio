@@ -53,4 +53,39 @@ The portfolio was created using basic HTML/CSS and is hosted with GitHub Pages.
 ---
 
 ## 📂 Repo Structure
+ethan-portfolio/
+├── index.html # Main portfolio homepage
+├── README.md # Project overview and details
+
+├── honorsociety/ # CS Honor Society project
+│ ├── index.html
+│ ├── WebProjectContact.html
+│ ├── WebProjectMeetingSlides.html
+│ ├── WebProjectOfficers.html
+│ └── images/
+│ ├── Aadil.PNG
+│ ├── CSHS.png
+│ ├── MSC images...
+│ └── newDC.png, newGC.png
+
+├── professional/ # Class assignments & personal web pages
+│ ├── page2.html # Professional homepage
+│ ├── Tables.html
+│ ├── assignment6.html
+│ ├── gogolganguli.html
+│ ├── other assignment pages...
+│ └── images/
+│ ├── GogolFan.PNG
+│ ├── Halloween1.jpg
+│ └── background & theme images...
+
+## 🎓 About Me
+
+I'm an incoming freshman at UC San Diego, where I plan to major in Artificial Intelligence. This portfolio highlights the work I've done prior to starting college, including full-stack development, website design, and real-world projects built through dual-enrollment courses and independent learning. I’ve also deployed and managed a live tutoring platform using a VPS, demonstrating hands-on experience with web servers and deployment.
+
+## 📬 Contact
+
+- 💼 LinkedIn: [www.linkedin.com/in/ethan-nguyen-huu-222860375]
+- 🌐 GitHub: [https://github.com/MokeyCodes](https://github.com/MokeyCodes)
+- ✉️ Email: ethannguyenhuu@gmail.com
 
