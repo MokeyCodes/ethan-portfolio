@@ -3,10 +3,9 @@ import NavBar from "@/components/NavBar";
 
 export default function Home() {
     return (
-        <div className="items-center justify-items-center p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-            <NavBar />
+        <div className="flex flex-col items-center gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
             <div className="flex flex-col mt-auto border-8 border-red-500 items-center justify-items-center p-4">
-                <p className="">Ethan Nguyen-Huu's DATABASE.</p>
+                <p className="font-bold">Ethan Nguyen-Huu's DATABASE.</p>
                 <Image
                 className="rounded-full shadow-md hover:shadow-xl"
                 width={200}

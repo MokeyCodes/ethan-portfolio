@@ -1,4 +1,6 @@
 {
-  "/api/project/route": "app/api/project/route.js",
+  "/api/experience/route": "app/api/experience/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/experiences/page": "app/experiences/page.js",
   "/page": "app/page.js"
 }
