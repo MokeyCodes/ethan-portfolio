@@ -11,3 +11,4 @@ components/demobutton.tsx
 components/ui/shadcndemobutton.tsx
 app/api/demo/route.ts
 app/demo
+.next/
