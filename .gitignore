@@ -1,4 +1,13 @@
 node_modules
 .env
-demo
-api/demo
+models/Product.ts
+models/User.ts
+services/demo.ts
+tests/
+lib/example.ts
+public/tenor (1).gif
+lib/utils.ts
+components/demobutton.tsx
+components/ui/shadcndemobutton.tsx
+app/api/demo/route.ts
+app/demo
